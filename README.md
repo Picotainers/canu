@@ -1,5 +1,5 @@
 # canu
-Small, distroless-when-possible container for `canu`.
+Small compatibility-focused container for `canu`.
 
 ## how to use
 ```bash

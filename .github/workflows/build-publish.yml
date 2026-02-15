@@ -1,4 +1,4 @@
-name: Build and Publish Distroless canu
+name: Build and Publish canu
 
 on:
   push:
